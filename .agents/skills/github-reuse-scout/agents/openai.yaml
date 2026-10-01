@@ -1,0 +1,6 @@
+interface:
+  display_name: "GitHub Reuse Scout"
+  short_description: "Check useful public reuse before every change"
+  default_prompt: "Use $github-reuse-scout to check useful public GitHub reuse before this task, assess fit and report the decision and savings."
+policy:
+  allow_implicit_invocation: true
